@@ -1,0 +1,11 @@
+{
+    "frame": {
+    "version": "1",
+    "name": "Black",
+    "iconUrl": "https://black-framer.netlify.app/SnakyCatLogo.png",
+    "homeUrl": "https://black-framer.netlify.app",
+    "imageUrl": "https://black-framer.netlify.app/thumbnail.png",
+    "buttonTitle": "Black",
+    "splashBackgroundColor": "#B83742"
+  }
+}
